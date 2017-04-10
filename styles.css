@@ -1,0 +1,16 @@
+.navbar-inverse {
+    color: white;
+    background-color: purple;
+    float: none;
+}
+.navbar-inverse ul li {
+    position: relative;
+    background-color: white;
+    left:450px;
+}
+.img-fluid {
+    max-width:100%;
+    height: auto;
+    margin-bottom: 2em;
+    text-align: center;
+}
